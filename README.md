@@ -96,7 +96,9 @@ The remaining holes which do not recombine with electrons in Base, that holes wi
  act as emitter and collector respectively while the p-type semiconductor acts as a base.
 Current entering the emitter, base, and collector has the sign convention of positive while the current that leaves 
 the transistor has the sign convention of negative.</p>
-<center><img src="images/npn.png" width="450" height="200"></img></center>
+
+
+
 <h3>WORKING OF NPN bipolar junction transistor</h3>
 <p>The forward biased is applied across the emitter-base junction, and the reversed biased is applied across the collector-
 base junction. The forward biased voltage VEB is small as compared to the reverse bias voltage VCB.</p>
