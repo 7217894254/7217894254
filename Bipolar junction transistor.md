@@ -135,51 +135,6 @@ to the input signals within a circuit.</p>
 <p><li>Common Emitter Configuration â€“ has both voltage and current gain</li></p>
 <p><li>The common Collector Configuration â€“ has no voltage gain but has a current gain</li></p>
 <p><li>The common Base configuration â€“ has no current gain but has a voltage gain</li></p>
-<p><b>Characteristics of different transistor configurations are given in the following table:</b></p>
-
-<table width="100%" border="1" cellpadding="7" cellspacing="0">
-<tr>
-<th>CHARACTERISTICS</th>
-<th>COMMON BASE</th>
-<th>COMMON EMITTER</th>
-<th>COMMON COLLECTOR</th>
-</tr>
-
-<tr>
-<td>POWER GAIN</td>
-<td>low</td>
-<td>very high</td>
-<td>medium</td>
-</tr>
-
-<tr>
-<td>CURRENT GAIN</td>
-<td>low</td>
-<td>medium</td>
-<td>high</td>
-</tr>
-
-<tr>
-<td>VOLTAGE GAIN</td>
-<td>high</td>
-<td>medium</td>
-<td>low</td>
-</tr>
-
-<tr>
-<td>PHASE ANGLE</td>
-<td>0</td>
-<td>180</td>
-<td>0</td>
-</tr>
-
-<tr>
-<td>OUTPUT IMPEDANCE</td>
-<td>very high</td>
-<td>high</td>
-<td>low</td>
-</tr>
-</table>
 
 <h3>Applications of BJT</h3>
 <p>We know that a bipolar junction transistor is used as a switch, as an amplifier,
